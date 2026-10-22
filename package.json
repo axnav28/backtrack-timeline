@@ -1,0 +1,10 @@
+{
+  "name": "@axnav28/backtrack-timeline",
+  "version": "0.1.0",
+  "description": "Small, explainable event timeline reconstruction utilities for security and IoT data.",
+  "type": "module",
+  "license": "MIT",
+  "exports": "./src/index.ts",
+  "scripts": { "test": "vitest run" },
+  "devDependencies": { "typescript": "^5.9.3", "vitest": "^3.2.4" }
+}
